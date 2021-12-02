@@ -1,0 +1,12 @@
+* Advent of Code
+** 2021
+
+   This is my first year in `advent of code` and I'll go with Rust
+   
+*** Puzzles
+**** Day 01: Sonar sweep
+     - [[./day01a/readme.org][Part One]]
+     - [[./day01b/readme.org][Part Two]]
+**** Day 02: Dive
+     - [[./day02a/readme.org][Part One]]
+     - [[./day02b/readme.org][Part Two]]

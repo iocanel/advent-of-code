@@ -1,0 +1,5 @@
+* Advent of Code
+
+  This repository contains my advent of code puzzles:
+
+  - [[./2021/readme.org][2021]]
