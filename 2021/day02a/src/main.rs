@@ -10,20 +10,17 @@ pub fn adapt(data: &str) -> Vec<String> {
 
 //Process the commands in the vector and return the vessel position
 pub fn process_commands(data: Vec<String>) -> (i32, i32) {
-    let mut x = 0;
-    let mut y = 0;
     return data.iter().map(|i| {
         let mut split = i.split(' ');
         let keyword = split.next().expect("Command should contain a keyword");
         let arg = split.next().expect("Command should contain an argument").parse::<i32>().unwrap();
         match keyword {
-                "forward" => x += arg,
-                "down" => y+=arg,
-                "up" => y-= arg,
+                "forward" => (arg, 0),
+                "down" => (0, arg),
+                "up" => (0, -arg),
                 _ => panic!("Unexpected command keyword!"),
             }
-        (x,y)
-    }).last().expect("Data should contain at least one command!");
+    }).fold((0,0), |sum, x| (sum.0 + x.0, sum.1 + x.1));
 }
 
 #[cfg(test)]
