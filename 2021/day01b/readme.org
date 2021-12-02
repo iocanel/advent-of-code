@@ -36,4 +36,4 @@ Consider sums of a three-measurement sliding window. How many sums are larger th
 Your puzzle answer was `1781`.
 
 ** Links
-   [[../day01a/readme.org][Part One]]
+   [[../day01a/][Part One]]

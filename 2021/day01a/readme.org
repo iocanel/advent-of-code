@@ -47,4 +47,4 @@ How many measurements are larger than the previous measurement?
 Your puzzle answer was `1752`.
 
 ** Links
-   [[../day01b/readme.org][Part Two]]
+   [[../day01b/][Part Two]]

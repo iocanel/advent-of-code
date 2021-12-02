@@ -26,4 +26,4 @@ Using this new interpretation of the commands, calculate the horizontal position
 Your puzzle answer was 1840311528.
 
 ** Links:
-- [[../day02a/readme.org][Part One]]
+- [[../day02a/][Part One]]

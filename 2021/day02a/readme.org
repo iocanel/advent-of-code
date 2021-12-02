@@ -33,4 +33,4 @@ Calculate the horizontal position and depth you would have after following the p
 Your puzzle answer was 2073315.
 
 ** Links:
-- [[../day02b/readme.org][Part Two]] 
+- [[../day02b/][Part Two]] 

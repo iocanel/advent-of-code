@@ -5,8 +5,8 @@
    
 *** Puzzles
 **** Day 01: Sonar sweep
-     - [[./day01a/readme.org][Part One]]
-     - [[./day01b/readme.org][Part Two]]
+     - [[./day01a/][Part One]]
+     - [[./day01b/][Part Two]]
 **** Day 02: Dive
-     - [[./day02a/readme.org][Part One]]
-     - [[./day02b/readme.org][Part Two]]
+     - [[./day02a/][Part One]]
+     - [[./day02b/][Part Two]]
