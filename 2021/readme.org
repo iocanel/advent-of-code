@@ -10,3 +10,6 @@
 **** Day 02: Dive
      - [[./day02a/][Part One]]
      - [[./day02b/][Part Two]]
+**** Day 02: Binary Diagnostic
+     - [[./day03a/][Part One]]
+     - [[./day03b/][Part Two]]
