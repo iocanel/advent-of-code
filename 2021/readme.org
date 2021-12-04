@@ -10,6 +10,9 @@
 **** Day 02: Dive
      - [[./day02a/][Part One]]
      - [[./day02b/][Part Two]]
-**** Day 02: Binary Diagnostic
+**** Day 03: Binary Diagnostic
      - [[./day03a/][Part One]]
      - [[./day03b/][Part Two]]
+**** Day 03: Giant Squid
+     - [[./day04a/][Part One]]
+     - [[./day04b/][Part Two]]
