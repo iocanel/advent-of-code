@@ -13,6 +13,12 @@
 **** Day 03: Binary Diagnostic
      - [[./day03a/][Part One]]
      - [[./day03b/][Part Two]]
-**** Day 03: Giant Squid
+**** Day 04: Giant Squid
      - [[./day04a/][Part One]]
      - [[./day04b/][Part Two]]
+**** Day 09: Smoke Basin
+     - [[./day09a/][Part One]]
+     - [[./day09b/][Part Two]]
+**** Day 11: Dumbo Octapus
+     - [[./day11a/][Part One]]
+     - [[./day11b/][Part Two]]
