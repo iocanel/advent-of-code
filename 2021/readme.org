@@ -22,3 +22,6 @@
 **** Day 11: Dumbo Octapus
      - [[./day11a/][Part One]]
      - [[./day11b/][Part Two]]
+**** Day 12: Passage Pathing
+     - [[./day12a/][Part One]]
+     - [[./day12b/][Part Two]]
