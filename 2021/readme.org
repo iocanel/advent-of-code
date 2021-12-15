@@ -25,3 +25,6 @@
 **** Day 12: Passage Pathing
      - [[./day12a/][Part One]]
      - [[./day12b/][Part Two]]
+**** Day 13: Transparent Origami
+     - [[./day13a/][Part One]]
+     - [[./day13b/][Part Two]]
