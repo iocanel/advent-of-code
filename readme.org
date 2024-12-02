@@ -3,3 +3,4 @@
   This repository contains my advent of code puzzles:
 
   - [[./2021/][2021]]
+  - [[./2024/][2024]]
